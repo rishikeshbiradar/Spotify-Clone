@@ -2,7 +2,6 @@ Spotify Clone
 
 Welcome to the Spotify Clone project! 🎶
 
-Overview
 This project is a simple and sleek clone of the popular music streaming platform, Spotify. Crafted with HTML, CSS, and JavaScript, the Spotify Clone provides a visually appealing and interactive interface for music enthusiasts. Hosted on Netlify, it allows you to explore the world of music right in your browser. Whether you're a front-end developer or just passionate about music, this project is a great showcase of your skills.
 
 Features:
